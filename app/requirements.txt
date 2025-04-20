@@ -1,0 +1,12 @@
+# Core dependencies
+openfabric-pysdk
+requests
+marshmallow
+
+# LLM-specific
+ollama
+python-dotenv
+
+# Monitoring (optional)
+prometheus-client
+loguru
